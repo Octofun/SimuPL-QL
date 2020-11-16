@@ -1,5 +1,8 @@
 Right of the bat(Work in Progress)
-<br>                                                                                                                            
+<br>                                       
+<p align="center">
+    <img src="./images/GorBoi.gif" width=200/>
+</p>                                                                                   
 We are trying to emulate the function of PL\SQL using oclif.This is just a beginning effort and we are open PR'S and suggestion.<br>
 <br>
 Reasons:<br>
@@ -13,7 +16,3 @@ Goals<br>
   2)Easy to install<br>
   3)Easy to Modify and Distribute<br>
   <br>
-  
-<p align="center">
-    <img src="./images/GorBoi.gif" width=200/>
-</p>

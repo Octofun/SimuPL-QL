@@ -9,7 +9,7 @@ for more info on (https://oclif.io/)
 
 <br>
 <br>Reasons:<br>
-  1)Oracle DB would straight up consume a lot of memory and CPU Cycles<br>
+  1)Oracle DB would straight up consumes a lot of memory and CPU Cycles<br>
   2)It was a mess to uninstall<br>
   3)Make it approachable to students(That is the main goal)<br>
   <br>

@@ -3,7 +3,7 @@ Right of the bat(Work in Progress)
 <p align="center">
     <img src="./images/GorBoi.gif" width=200/>
 </p>                                                                                   
-We are trying to emulate the function of PL\SQL using oclif.This is just a beginning effort and we are open PR'S and suggestion.<br>
+We are trying to emulate the function of PL\SQL using oclif.This is just a beginning effort and we are open PR'S and suggestions.<br>
 <br>
 Reasons:<br>
   1)Oracle DB would straight up consume a lot of memory and CPU Cycles<br>

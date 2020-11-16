@@ -3,7 +3,7 @@ Right of the bat(Work in Progress)
 <p align="center">
     <img src="./images/GorBoi.gif" width=200/>
 </p>                                                                                   
-We are trying to emulate the function of PL\SQL using oclif.This is just a beginning effort and we are open PR'S and suggestions.<br>
+We are trying to emulate the function of PL\SQL using oclif.This is just a beginning effort and we are open to PR'S and suggestions.<br>
 <br>
 for more info on (https://oclif.io/)
 

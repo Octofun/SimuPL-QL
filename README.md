@@ -5,7 +5,7 @@ Right of the bat(Work in Progress)
 </p>                                                                                   
 We are trying to emulate the function of PL\SQL using oclif.This is just a beginning effort and we are open PR'S and suggestions.<br>
 <br>
-for more info on [oclif.io](https://oclif.io/)
+for more info on (https://oclif.io/)
 
 <br>
 <br>Reasons:<br>

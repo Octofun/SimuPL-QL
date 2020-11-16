@@ -1,4 +1,4 @@
-Right of the bat(Work in Progress)
+Right ofF the bat(Work in Progress)
 <br>                                       
 <p align="center">
     <img src="./images/GorBoi.gif" width=200/>

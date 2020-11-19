@@ -21,4 +21,5 @@ sc delete OracleOraDB18Home2MTSRecoveryService
 sc delete OracleOraDB18Home2TNSListener
 sc delete OracleVssWriterXE
 ECHO All Done!!
+START https://github.com/Octofun/SimuPL-QL
 PAUSE

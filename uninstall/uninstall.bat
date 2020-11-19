@@ -1,7 +1,12 @@
 @ECHO OFF
 ECHO Oracle cleaner v1.0 .. Use only for Express Edition 18c
-TITLE Oracle cleaner v1.0
-ECHO Executing Standard uninstall
+ECHO =============================
+ECHO Run at your own risk..Edit the file as required
+ECHO Built at MITS 
+ECHO WAREZ OF SimuPL-QL
+ECHO =============================
+TITLE Oracle cleaner v1.0 
+ECHO Executing Standard uninstallation procedures
 msiexec /x {C220B7FD-3095-47FC-A0C0-AE49DE6E320A}
 ECHO Cleaning up Registry
 sc delete OracleOraDb11g_home1ClrAgent
